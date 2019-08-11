@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AvailableLibraryUpdateStorage">
+        <library-updates>
+            <library-update>
+                <group-id>androidx.test.espresso</group-id>
+                <name>espresso-core</name>
+                <version>3.3.0-alpha01</version>
+                <repository>Google</repository>
+            </library-update>
+            <library-update>
+                <group-id>androidx.test</group-id>
+                <name>runner</name>
+                <version>1.3.0-alpha01</version>
+                <repository>Google</repository>
+            </library-update>
+            <library-update>
+                <group-id>androidx.constraintlayout</group-id>
+                <name>constraintlayout</name>
+                <version>2.0.0-beta2</version>
+                <repository>Google</repository>
+            </library-update>
+            <library-update>
+                <group-id>junit</group-id>
+                <name>junit</name>
+                <version>4.13-beta-3</version>
+                <repository>JCenter</repository>
+            </library-update>
+            <library-update>
+                <group-id>androidx.appcompat</group-id>
+                <name>appcompat</name>
+                <version>1.1.0-rc01</version>
+                <repository>Google</repository>
+            </library-update>
+        </library-updates>
+        <last-search-timestamp>1563038325602</last-search-timestamp>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="2a4aa981-1a01-4cbf-a9ff-c2e6d846d53e" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpletodo/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="459">
+                            <caret
+                                column="27"
+                                line="34"
+                                selection-end-column="27"
+                                selection-end-line="34"
+                                selection-start-column="27"
+                                selection-start-line="34" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="290">
+                            <caret
+                                column="31"
+                                line="18"
+                                selection-end-column="31"
+                                selection-end-line="18"
+                                selection-start-column="31"
+                                selection-start-line="18" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpletodo/MainActivity.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            </list>
+        </option>
+    </component>
+    <component name="ProjectFrameBounds">
+        <option
+            name="x"
+            value="10" />
+        <option
+            name="width"
+            value="1346" />
+        <option
+            name="height"
+            value="728" />
+    </component>
+    <component name="ProjectView">
+        <navigator
+            proportions=""
+            version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes>
+            <pane id="ProjectPane" />
+            <pane id="PackagesPane" />
+            <pane id="AndroidView" />
+            <pane id="Scope" />
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property
+            name="android.sdk.path"
+            value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property
+            name="project.structure.last.edited"
+            value="SDK Location" />
+        <property
+            name="project.structure.proportion"
+            value="0.17" />
+        <property
+            name="project.structure.side.proportion"
+            value="0.2" />
+        <property
+            name="settings.editor.selected.configurable"
+            value="AndroidSdkUpdater" />
+    </component>
+    <component name="RunDashboard">
+        <option name="ruleStates">
+            <list>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="ConfigurationTypeDashboardGroupingRule" />
+                </RuleState>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="StatusDashboardGroupingRule" />
+                </RuleState>
+            </list>
+        </option>
+    </component>
+    <component name="RunManager">
+        <configuration
+            default="true"
+            factoryName="Android JUnit"
+            type="AndroidJUnit">
+            <option
+                name="TEST_OBJECT"
+                value="class" />
+            <option name="WORKING
